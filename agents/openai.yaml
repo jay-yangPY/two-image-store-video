@@ -1,0 +1,4 @@
+interface:
+  display_name: "两图商家探店视频生成器"
+  short_description: "用店铺图和产品图生成可直接复制的15秒商家探店视频提示词"
+  default_prompt: "使用 $two-image-store-video，根据商家类型、产品名称、店铺图和产品图，生成可直接复制的15秒探店视频提示词。"
